@@ -44,7 +44,7 @@ Aquí dejo organizadas las tecnologías y herramientas que he utilizado por cate
 
 ---
 
-### 📫 Contacto
+### Contacto
 
 * **LinkedIn:** www.linkedin.com/in/javier-del-olmo-sanchez-43640329b
 * **Email:** javierdelolmo44@gmail.com
