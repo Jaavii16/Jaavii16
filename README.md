@@ -25,13 +25,13 @@ Aquí dejo organizadas las tecnologías y herramientas que he utilizado por cate
     * Spring Boot, Node.js, Docker, HTML, CSS, XML
 
 * **Fundamentos de Ingeniería y Ciencias de la Computación:**
-    * **Algoritmos y Estructuras de Datos:**
-    * **Sistemas Operativos y Concurrencia:**
-    * **Bases de Datos:**
-    * **Redes:**
+    * **Algoritmos y Estructuras de Datos**
+    * **Sistemas Operativos y Concurrencia**
+    * **Bases de Datos**
+    * **Redes**
     * **Paradigmas de Programación:** POO, Funcional (Haskell).
-    * **Arquitectura de Computadores:**
-    * **Patrones de Diseño:**
+    * **Arquitectura de Computadores**
+    * **Patrones de Diseño**
 
 * **Herramientas, IDEs y Plataformas:**
     * Git / GitHub
